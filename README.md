@@ -15,5 +15,5 @@ Welcome to my GitHub portfolio. I'm a data enthusiast passionate about building 
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/YOURNAME)
-- [Email me](mailto:your@email.com)
+- [LinkedIn](https://www.linkedin.com/in/ali-e-1a2a1320a)
+- [Email me](mailto:elgamala@uni.coventry.ac.uk)
