@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali!
 
-<!--
-**Ali-ElGamal/Ali-ElGamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio. I'm a data enthusiast passionate about building impactful, real-world data projects.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Tools |
+|--------|-------------|-------|
+| **GDP Nowcasting (CBE Use Case)** | Built a predictive model for real-time GDP estimation in Egypt using Google Trends. Presented to the Central Bank of Egypt. | Python, Pandas, Scikit-learn, Pytrends |
+| **Employee Attrition Prediction** | Classified likelihood of employee churn using HR data and machine learning. | Python, Pandas, Scikit-learn |
+| **Credit Score Classification** | Built a classification model to predict customer creditworthiness. | Python, Pandas, Sklearn |
+
+📂 [See all my projects](https://github.com/Ali-ElGamal/MLProjects)
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/YOURNAME)
+- [Email me](mailto:your@email.com)
