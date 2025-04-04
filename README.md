@@ -26,7 +26,7 @@ Here are a few selected projects that reflect my skills and learning journey:
 > Predicted creditworthiness using classification models on imbalanced data.  
 > `Python`, `Sklearn`, `Data Preprocessing`, `Model Tuning`
 
-[![View All Projects](https://img.shields.io/badge/📂_View_All_Projects-blue?style=for-the-badge)](#projects)
+[![View All Projects](https://img.shields.io/badge/📂_View_All_Projects-blue?style=for-the-badge)](https://github.com/Ali-ElGamal/MLProjects)
 
 ---
 
@@ -36,3 +36,7 @@ I’m always looking for opportunities to learn, collaborate, and grow.
 Currently seeking impactful roles where I can kick-start my career in data.
 
 Feel free to reach out anytime!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-e-1a2a1320a)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:elgamala@uni.coventry.ac.uk)
+
