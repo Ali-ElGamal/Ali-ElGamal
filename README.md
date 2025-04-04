@@ -1,19 +1,38 @@
-# 👋 Hi, I'm Ali!
+# 👋 Hi, I'm Ali — Data Enthusiast & Analyst
 
-Welcome to my GitHub portfolio. I'm a data enthusiast passionate about building impactful, real-world data projects.
+🚀 Passionate about solving real-world problems using data.  
+📊 Focused on predictive modeling, business analytics & visualization.  
+🌱 Always learning — persistent, fast learner, and driven by impact.
 
-## 🚀 Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-e-1a2a1320a)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:elgamala@uni.coventry.ac.uk)
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| **GDP Nowcasting (CBE Use Case)** | Built a predictive model for real-time GDP estimation in Egypt using Google Trends. Presented to the Central Bank of Egypt. | Python, Pandas, Scikit-learn, Pytrends |
-| **Employee Attrition Prediction** | Classified likelihood of employee churn using HR data and machine learning. | Python, Pandas, Scikit-learn |
-| **Credit Score Classification** | Built a classification model to predict customer creditworthiness. | Python, Pandas, Sklearn |
 
-📂 [See all my projects](https://github.com/Ali-ElGamal/MLProjects)
+
+## 🔍 Featured Projects
+
+Here are a few selected projects that reflect my skills and learning journey:
+
+### 📈 **GDP Nowcasting (CBE Use Case)**
+> Built a predictive model for real-time GDP estimation in Egypt using Google Trends.  
+> Presented to the Central Bank of Egypt.  
+> `Python`, `Pandas`, `Scikit-learn`, `Pytrends`  
+
+### 🧠 **Employee Attrition Analysis**
+> Modeled employee attrition risk to support HR decision-making.  
+> `Python`, `EDA`, `Classification`, `Matplotlib`, `Seaborn`
+
+### 💳 **Credit Score Classification**
+> Predicted creditworthiness using classification models on imbalanced data.  
+> `Python`, `Sklearn`, `Data Preprocessing`, `Model Tuning`
+
+[![View All Projects](https://img.shields.io/badge/📂_View_All_Projects-blue?style=for-the-badge)](#projects)
 
 ---
 
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ali-e-1a2a1320a)
-- [Email me](mailto:elgamala@uni.coventry.ac.uk)
+## 🌐 Let's Connect
+
+I’m always looking for opportunities to learn, collaborate, and grow.  
+Currently seeking impactful roles where I can kick-start my career in data.
+
+Feel free to reach out anytime!
