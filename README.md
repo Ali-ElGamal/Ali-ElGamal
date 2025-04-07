@@ -13,6 +13,8 @@
 
 Here are a few selected projects that reflect my skills and learning journey:
 
+[![View All Projects](https://img.shields.io/badge/📂_View_All_Projects-blue?style=for-the-badge)](https://github.com/Ali-ElGamal/MLProjects)
+
 ### 📈 **GDP Nowcasting (CBE Use Case)**
 > Built a predictive model for real-time GDP estimation in Egypt using Google Trends.  
 > Presented to the Central Bank of Egypt.  
@@ -26,7 +28,6 @@ Here are a few selected projects that reflect my skills and learning journey:
 > Predicted creditworthiness using classification models on imbalanced data.  
 > `Python`, `Sklearn`, `Data Preprocessing`, `Model Tuning`
 
-[![View All Projects](https://img.shields.io/badge/📂_View_All_Projects-blue?style=for-the-badge)](https://github.com/Ali-ElGamal/MLProjects)
 
 ---
 
