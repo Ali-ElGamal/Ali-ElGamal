@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali — Data Enthusiast & Analyst
+# 👋 Hi, I'm Ali — Data Science & Analytics Enthusiast
 
 🚀 Passionate about solving real-world problems using data.  
 📊 Focused on predictive modeling, business analytics & visualization.  
